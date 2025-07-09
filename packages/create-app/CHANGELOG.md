@@ -1,5 +1,17 @@
 # @backstage/create-app
 
+## 0.7.1-next.2
+
+### Patch Changes
+
+- c4a0830: Removed deprecated 'allowedHosts' field from GitHub Publish action input in default template files to fix validation errors with strict Zod validation.
+
+## 0.7.1-next.1
+
+### Patch Changes
+
+- Bumped create-app version.
+
 ## 0.7.1-next.0
 
 ### Patch Changes

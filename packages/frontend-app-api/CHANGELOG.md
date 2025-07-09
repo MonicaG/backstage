@@ -1,5 +1,25 @@
 # @backstage/frontend-app-api
 
+## 0.11.4-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-app-api@1.18.0-next.1
+  - @backstage/core-plugin-api@1.10.9-next.0
+
+## 0.11.4-next.1
+
+### Patch Changes
+
+- 3507fcd: Just some more circular dep cleanup
+- Updated dependencies
+  - @backstage/config@1.3.3-next.0
+  - @backstage/core-app-api@1.17.2-next.0
+  - @backstage/core-plugin-api@1.10.9-next.0
+  - @backstage/frontend-defaults@0.2.4-next.1
+  - @backstage/frontend-plugin-api@0.10.4-next.1
+
 ## 0.11.4-next.0
 
 ### Patch Changes

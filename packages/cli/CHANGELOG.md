@@ -1,5 +1,21 @@
 # @backstage/cli
 
+## 0.33.1-next.2
+
+### Patch Changes
+
+- 50f0ce6: Fixes a module not found error when running `backstage-cli info`.
+
+## 0.33.1-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/config-loader@1.10.2-next.0
+  - @backstage/config@1.3.3-next.0
+  - @backstage/catalog-model@1.7.5-next.0
+  - @backstage/integration@1.17.1-next.1
+
 ## 0.33.1-next.0
 
 ### Patch Changes
